@@ -41,8 +41,8 @@ Windows 10 - 1 Гб оперативной памяти и 5 Гб свободн
 
 **[ ИНСТРУМЕНТЫ РАЗРАБОТКИ ]**
 
-Python / PyCharm Community
-Backend: FastAPI (python)
+* Python / PyCharm Community
+* Backend: FastAPI (python)
 
 **[ ЭТАПЫ РАЗРАБОТКИ ]**
 
